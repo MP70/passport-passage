@@ -2,7 +2,7 @@
   "name": "passport-passage",
   "version": "0.0.1",
   "description": "Passport strategy for Passage authentication",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "mocha"
   },
